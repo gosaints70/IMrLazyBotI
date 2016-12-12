@@ -1,6 +1,6 @@
 {
   "name": "IMrLazyBotI",
   "tagline": "",
-  "body": "## [Add to your server](https://discordapp.com/oauth2/authorize?access_type=online&client_id=257628139281186826&redirect_uri=https://gosaints70.github.io/IMrLazyBotI/&response_type=code&scope=bot+identify&state=rrBZHtquOVvgipufHcdCwixinHimodJK&permissions=3148800)",
+  "body": "## [Add to your server](https://discordapp.com/oauth2/authorize?&client_id=257628139281186826&scope=bot&permissions=0)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
